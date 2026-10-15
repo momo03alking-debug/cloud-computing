@@ -16,4 +16,4 @@ spec:
       - name: storingsmelder
         image: ghcr.io/momo03alking-debug/storingsmelder:1.1
         ports:
-        - containerPort: 5000
+        - containerPort: 8000
